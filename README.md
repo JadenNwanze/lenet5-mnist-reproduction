@@ -53,7 +53,7 @@ This is a concise tabulated summary of the architectural framework highligted in
 ---
 
 ---
-## 📚 References
+##  References
 
 - LeCun, Y., Bottou, L., Bengio, Y., & Haffner, P. (1998). *Gradient-based learning applied to document recognition.* Proceedings of the IEEE.
 - [LeNet-5 Paper PDF](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
@@ -62,10 +62,10 @@ This is a concise tabulated summary of the architectural framework highligted in
 
 ## 🔗 Related Projects
 
-- **💳Credit Card Fraud Detection System (CCFDS)**  
+- **Credit Card Fraud Detection System (CCFDS)**  
   A machine learning web app that detects fraudulent financial transactions using ensemble models (Logistic Regression, Random Forest, XGBoost) and SHAP for interpretability.  
-  🔗 [Live Demo](https://creditcarddetectionsystem-egseuj4mjysbwzs6benygd.streamlit.app/)  
-  🔗 [GitHub Repository](https://github.com/JadenNwanze/Credit_card_detection_system)
+   [Live Demo](https://creditcarddetectionsystem-egseuj4mjysbwzs6benygd.streamlit.app/)  
+   [GitHub Repository](https://github.com/JadenNwanze/Credit_card_detection_system)
 
 
 
