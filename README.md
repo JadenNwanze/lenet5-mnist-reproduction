@@ -23,8 +23,6 @@ The LeNet-5 architecture is historically significant, and it laid the foundation
 - Python 3  
 - NumPy & Matplotlib
 - TensorFlow  
--pandas
-
 ---
 
 ##  Architecture Overview
