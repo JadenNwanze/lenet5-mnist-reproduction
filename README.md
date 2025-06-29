@@ -68,4 +68,7 @@ This is a concise tabulated summary of the architectural framework highligted in
    [GitHub Repository](https://github.com/JadenNwanze/Credit_card_detection_system)
 
 
+## License
+
+This project is licensed under the **MIT License** 
 
